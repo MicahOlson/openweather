@@ -11,7 +11,7 @@ Authored by: Ash Porter, Micah Olson
 
 ## Description
 _Asynchrony and APIs / Open Weather API, Giphy API_  
-To be updated.   
+To be updated.  
 
 ## Technologies Used
 * HTML
