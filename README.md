@@ -11,17 +11,15 @@ Authored by: Ash Porter, Micah Olson
 
 ## Description
 _Asynchrony and APIs / Open Weather API, Giphy API_  
-To be updated.  
+The goals of this exercise were to practice making API calls in JavaScript, utilize a full development environment, create a .env file for sensitive API variables, and parse JSON.  
 
 ## Technologies Used
 * HTML
-* CSS
 * Bootstrap 4.6
 * JavaScript
 * jQuery 3.5.1
 * npm 6.14.10
 * webpack 4.39.3
-* eslint 6.3.0
 
 ## License
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
